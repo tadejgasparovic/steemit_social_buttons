@@ -1,0 +1,27 @@
+.btn-steemit-follow {
+	border: 1px solid #D6D6D6;
+	background-color: white;
+	color: black;
+	padding: 4px 6px;
+	text-align: left;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	line-height: 23px;
+}
+
+.btn-steemit-follow:hover, .btn-steemit-follow:active, .btn-steemit-follow:focus {
+	background-color: #DEDEDE;
+	border-color: #CCCCCC;
+}
+
+.icon-steemit {
+	display: inline-block;
+	background-image: url('../img/steemit.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 22px;
+	width: 22px;
+	line-height: 23px;
+	vertical-align: middle;
+}
